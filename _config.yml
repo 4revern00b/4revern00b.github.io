@@ -11,11 +11,11 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Nairobi/Africa
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Forever Noob                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -27,16 +27,16 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
-author: your_full_name                  # change to your full name
+author: Forever Noob                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: 4revern00b             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
+  name: Forever Noob                  # it will shows as the copyright owner in Footer
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
