@@ -3,12 +3,11 @@ title: Incidence response.
 author: Forever Noob
 categories: [Blogging, Incidence Response]
 tags: [Incident response]
-math: true
+math: false
 mermaid: true
 ---
-# Introduction
 
-Incidence response is the process of dealing with an incident to closure. Incidence response plans are written and designed to help organizations prepare for and manage cybersecurity incidents, minimizing business interruption and other losses.
+It is the process of dealing with an incident to closure. Incidence response plans are written and designed to help organizations prepare for and manage cybersecurity incidents, minimizing business interruption and other losses.
 
 An incident response plan is a document that sets out the procedures you will follow in the event of a cyber-attack on your business systems. This includes systems that might be compromised or attacked by malware or ransomware, but also systems with sensitive information – such as employee data.
 
