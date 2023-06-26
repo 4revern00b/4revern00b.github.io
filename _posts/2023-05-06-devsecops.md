@@ -1,7 +1,7 @@
 ---
 title: Demistifying DevSecOps - Bridging gap between Development, Security and Operations
 categories: [DevSecOps, Security]
-tags: [DevSecOps]     # TAG names should always be lowercase
+tags: [devsecops]     # TAG names should always be lowercase
 ---
 
 
